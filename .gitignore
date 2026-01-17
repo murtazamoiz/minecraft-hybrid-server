@@ -9,5 +9,6 @@ ops.json
 server.jar
 server.properties
 start.bat
+play-server.bat
 usercache.json
 whitelist.json
