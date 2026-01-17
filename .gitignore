@@ -1,0 +1,13 @@
+libraries/
+world/
+logs/
+versions/
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.jar
+server.properties
+start.bat
+usercache.json
+whitelist.json
